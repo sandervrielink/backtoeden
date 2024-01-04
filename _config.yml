@@ -18,12 +18,12 @@ title: Back To Eden # the main title
 
 tagline: Free, Simple, Nature # it will display as the sub-title
 
-description: >- # used by seo meta and the atom feed
+description:  # used by seo meta and the atom feed
   
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: 'https://sandervrielink.github.io/backtoeden/'
+url: 'https://sandervrielink.github.io/backtoeden'
 
 github:
   username: sandervrielink # change to your github username
